@@ -5,4 +5,5 @@ It uses the py2neo library to interface with the graph database.
 
 Terminology:
 mekid - the user identifier or username
+
 konnect - connect

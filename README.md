@@ -4,6 +4,7 @@ A simple social network I made using Neo4j, a graph database, and Flask in Pytho
 It uses the py2neo library to interface with the graph database.
 
 Terminology:
+
 mekid - the user identifier or username
 
 konnect - connect
